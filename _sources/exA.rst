@@ -1,13 +1,9 @@
-Practice
--------------------------
+Questions for Experiment A
+-------------------------------
 
 Try to solve the following mixed up code problems. You can use the "Help Me" button
 to make the problem easier if you have made at least three attempts to solve the
 problem.  After you solve each problem, please answer the poll as well.
-
-.. selectquestion:: sum13_pp_ex
-   :ab:
-   :fromid: sum13_nd_pp_exA,
 
 .. parsonsprob:: sum13_nd_pp_exA
    :adaptive:
@@ -35,21 +31,6 @@ problem.  After you solve each problem, please answer the poll as well.
        return sum
 
 
-.. poll:: sum13_nd_pp_exA_poll
-    :allowcomment:
-    :option_1: Very, very low mental effort
-    :option_2: Very low mental effort
-    :option_3: Low mental effort
-    :option_4: Rather low mental effort
-    :option_5: Neither low nor high mental effort
-    :option_6: Rather high mental effort
-    :option_7: High mental effort
-    :option_8: Very high mental effort
-    :option_9: Very, very high mental effort
-    :results: instructor
-
-    In solving the preceding problem I invested:
-
 .. parsonsprob:: list_multiples_pp_exA
    :adaptive:
    :numbered: left
@@ -69,20 +50,6 @@ problem.  After you solve each problem, please answer the poll as well.
    =====
        return a_list
 
-.. poll:: list_multiples_pp_exA_poll
-    :allowcomment:
-    :option_1: Very, very low mental effort
-    :option_2: Very low mental effort
-    :option_3: Low mental effort
-    :option_4: Rather low mental effort
-    :option_5: Neither low nor high mental effort
-    :option_6: Rather high mental effort
-    :option_7: High mental effort
-    :option_8: Very high mental effort
-    :option_9: Very, very high mental effort
-    :results: instructor
-
-    In solving the preceding problem I invested:
 
 .. parsonsprob:: ibeforee_pp_exA
    :adaptive:
@@ -111,20 +78,6 @@ problem.  After you solve each problem, please answer the poll as well.
    =====
        return True
 
-.. poll:: ibeforee_pp_exA_poll
-    :allowcomment:
-    :option_1: Very, very low mental effort
-    :option_2: Very low mental effort
-    :option_3: Low mental effort
-    :option_4: Rather low mental effort
-    :option_5: Neither low nor high mental effort
-    :option_6: Rather high mental effort
-    :option_7: High mental effort
-    :option_8: Very high mental effort
-    :option_9: Very, very high mental effort
-    :results: instructor
-
-    In solving the preceding problem I invested:
 
 .. parsonsprob:: removetarget_pp_v2_exA
    :adaptive:
@@ -148,18 +101,3 @@ problem.  After you solve each problem, please answer the poll as well.
                index += 1
    =====
        return nums
-
-.. poll:: removetarget_pp_v2_exA_poll
-    :allowcomment:
-    :option_1: Very, very low mental effort
-    :option_2: Very low mental effort
-    :option_3: Low mental effort
-    :option_4: Rather low mental effort
-    :option_5: Neither low nor high mental effort
-    :option_6: Rather high mental effort
-    :option_7: High mental effort
-    :option_8: Very high mental effort
-    :option_9: Very, very high mental effort
-    :results: instructor
-
-    In solving the preceding problem I invested:
