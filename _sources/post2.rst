@@ -5,6 +5,8 @@ Try to solve the following fix code problem.  You have five minutes to try to
 solve it.  It is okay if you can't solve it, you will earn credit for trying to
 solve it.
 
+Click on the "Start" button to show the problem.  Click on the "Finish Exam" button when you are done.
+
 .. timed:: post-exa-2
    :timelimit: 300
 
