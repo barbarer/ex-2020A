@@ -6,6 +6,7 @@ to make the problem easier if you have made at least three attempts to solve the
 problem.  After you solve each problem, please answer the poll as well.
 
 .. selectquestion:: sum13_selq
+   :fullwidth:
    :ab:
    :fromid: sum13_nd_pp_exA, sum13_w6d_pp_exB
 
@@ -25,6 +26,7 @@ problem.  After you solve each problem, please answer the poll as well.
     In solving the preceding problem I invested:
 
 .. selectquestion:: list_mult_selq
+   :fullwidth:
    :ab:
    :fromid: list_multiples_pp_exA, list_multiples_w3d_pp_exB
 
@@ -44,6 +46,7 @@ problem.  After you solve each problem, please answer the poll as well.
     In solving the preceding problem I invested:
 
 .. selectquestion:: ibeforee_selq
+   :fullwidth:
    :ab:
    :fromid: ibeforee_pp_exA, ibeforee_pp_wd_exB
 
@@ -63,6 +66,7 @@ problem.  After you solve each problem, please answer the poll as well.
     In solving the preceding problem I invested:
 
 .. selectquestion:: remove_target_selq
+   :fullwidth:
    :ab:
    :fromid: removetarget_pp_v2_exA, remove_target_pp_wd_exB
 

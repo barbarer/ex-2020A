@@ -8,7 +8,7 @@ solve it.
 Click on the "Start" button to show the problem.  Click on the "Finish Exam" button when you are done.
 
 .. timed:: post-exa-1
-   :timelimit: 300
+   :timelimit: 5
 
    .. activecode:: removeExtras_fix_timed
       :autograde: unittest
