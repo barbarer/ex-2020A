@@ -14,7 +14,7 @@ Click on the "Start" button to show the problem.  Click on the "Finish Exam" but
       :autograde: unittest
       :nocodelens:
 
-      Fix the function ``two_cats`` below to return True if there are at least two adjacent "cat" strings in list ``pets``, otherwise return False.  For example, return ``True`` for ``['dog', 'cat', 'cat']`` since there are two adjacent items equal to 'cat' (at index 1 and 2) and ``False`` for ``['cat', 'dog', 'cat']`` since the 'cat' strings are not adjacent.
+      Fix the function ``two_cats`` below to return True if there are at least two adjacent "cat" strings in list ``pets``, otherwise return False.  For example, return ``True`` for ``two_cats(['dog', 'cat', 'cat'])`` since there are two adjacent items equal to 'cat' (at index 1 and 2) and ``False`` for ``two_cats(['cat', 'dog', 'cat'])`` since the 'cat' strings are not adjacent.
 
       ~~~~
       def two_cats(pets):
@@ -25,6 +25,8 @@ Click on the "Start" button to show the problem.  Click on the "Finish Exam" but
               i += 1
               return False
 
+      print(two_cats(['dog', 'cat', 'cat']))
+      print(two_cats(['cat', 'dog', 'cat']))
       ====
       from unittest.gui import TestCaseGui
 

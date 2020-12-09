@@ -26,6 +26,9 @@ Click on the "Start" button to show the problem.  Click on the "Finish Exam" but
                   prev = a_list[index]
               index -= 1
               return a_list
+
+      print(removeExtras([3, 3, 1]))
+      print(removeExtras([7, 7, 8, 8, 9, 9, 9, 10, 9, 10, 11]))
       ====
       from unittest.gui import TestCaseGui
 
