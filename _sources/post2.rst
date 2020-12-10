@@ -5,7 +5,7 @@ Try to solve the following fix code problem.  You have five minutes to try to
 solve it.  It is okay if you can't solve it, you will earn credit for trying to
 solve it.
 
-Click on the "Start" button to show the problem.  Click on the "Finish Exam" button when you are done.
+Click on the "Start" button to show the problem.  
 
 .. timed:: post-exa-2
    :timelimit: 5
@@ -45,6 +45,9 @@ Click on the "Start" button to show the problem.  Click on the "Finish Exam" but
               self.assertEqual(two_cats(['cat', 'bird', 'bird', 'cat']), False, "two_cats(['cat', 'bird', 'bird', 'cat'])")
 
       myTests().main()
+
+Click on the "Finish Exam" button shown before the question when you are done with the above question
+and then answer the poll below.
 
 .. poll:: find_extras_fix_timed_poll
     :allowcomment:

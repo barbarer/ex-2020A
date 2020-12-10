@@ -5,7 +5,7 @@ Try to solve the following fix code problem.  You have five minutes to try to
 solve it.  It is okay if you can't solve it, you will earn credit for trying to
 solve it.
 
-Click on the "Start" button to show the problem. Click on the "Finish Exam" button when you are done.
+Click on the "Start" button to show the problem.
 
 .. timed:: pre-exa-1
    :timelimit: 5
@@ -48,6 +48,8 @@ Click on the "Start" button to show the problem. Click on the "Finish Exam" butt
 
       myTests().main()
 
+Click on the "Finish Exam" button shown before the question when you are done with the above question
+and then answer the poll below.
 
 .. poll:: remove_duplicates_fix_timed_poll
     :allowcomment:

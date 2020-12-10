@@ -5,7 +5,7 @@ Try to solve the following fix code problem.  You have five minutes to try to
 solve it.  It is okay if you can't solve it, you will earn credit for trying to
 solve it.
 
-Click on the "Start" button to show the problem.  Click on the "Finish Exam" button when you are done.
+Click on the "Start" button to show the problem.  
 
 .. timed:: pre-exa-2
    :timelimit: 5
@@ -45,6 +45,9 @@ Click on the "Start" button to show the problem.  Click on the "Finish Exam" but
               self.assertEqual(adjacentTwos([2, 3, 3, 2]), False, "adjacentTwos([2, 3, 3, 2])")
 
       myTests().main()
+
+Click on the "Finish Exam" button shown before the question when you are done with the above question
+and then answer the poll below.
 
 .. poll:: adjacentTwos_fix_timed_poll
     :allowcomment:
